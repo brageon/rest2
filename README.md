@@ -32,7 +32,7 @@
 14. Resume: ```DNCD=C+N=29/8+3``` i.e. 7 calls.
 15. Gimmeserendipity: CD while HN also CN.
 
-# Commentary🦠
+# Commentary📃
 * S4: Molar mass. S11: Immune system.
 * C1: Amino acids. C2: Metabolism.
 * C3: Protein clusters. C5: Recessiv genes.
