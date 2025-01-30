@@ -77,7 +77,7 @@ class GaFe:
         
     def mine(self):
         anchors = [18/17, 18/16, 18/15, 18/14, 18/13, 18/12, 18/11, 18/10, 18/9, 18/8, 18/7, 18/6, 18/5, 18/4, 18/3, 18/2]
-        letters = ['DN', 'ND', 'DC', 'CD', 'DD', 'CH', 'HC', 'CC', 'CN', 'NC', 'NN', 'HN', 'NH', 'HD', 'DH', 'HH']
+        letters = ['DN', 'ND', 'DC', 'CD', 'DD', 'HC', 'CH', 'CC', 'CN', 'NC', 'NN', 'NH', 'HN', 'HD', 'DH', 'HH']
         with open('oak.txt', 'r') as file:
             lines = file.readlines()
         for num, line in enumerate(lines):
